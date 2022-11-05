@@ -6,4 +6,4 @@ Built a stacked ensemble is built to detect sentiment with 80% accuracy.
 
 Built a multi-task learning model to detect the topic of a tweet and the sentiment related to it.
 
-Output a csv file with all generated predictions
+Output a csv file with all generated predictions in automatic_prediction.csv
